@@ -2,7 +2,7 @@
 The project aims to create interactive reports and dashboards for sales and customer analysis, enabling a better understanding of top-selling products, purchasing patterns, and the geographical distribution of sales. The focus is on optimizing commercial strategy to maximize future results.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/Or%C3%ADgenes%20Articulos.7z">Dataset</a>
 
 ## Key Questions and KPIs
 
@@ -13,7 +13,11 @@ The project aims to create interactive reports and dashboards for sales and cust
 - What are the growth or decline trends in sales?
 - How do costs impact product profitability?
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction:
+<a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%201.JPG">View Dashboard page 1</a>
+<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 2</a>
+<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 3</a>
+<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 4</a>
 
 ## Process
 
