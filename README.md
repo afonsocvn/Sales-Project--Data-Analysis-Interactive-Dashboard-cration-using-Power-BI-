@@ -15,9 +15,12 @@ The project aims to create interactive reports and dashboards for sales and cust
 
 - Dashboard Interaction:
 <a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%201.JPG">View Dashboard page 1</a>
-<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 2</a>
-<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 3</a>
-<a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard page 4</a>
+
+<a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%202.JPG">View Dashboard page 2</a>
+
+<a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%203.JPG">View Dashboard page 3</a>
+
+<a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%204.JPG">View Dashboard page 4</a>
 
 ## Process
 
@@ -39,7 +42,7 @@ The project aims to create interactive reports and dashboards for sales and cust
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%201.JPG)
 
 ## Key Findings
 
