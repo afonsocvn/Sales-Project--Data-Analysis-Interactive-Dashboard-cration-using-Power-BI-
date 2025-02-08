@@ -17,18 +17,18 @@ The project aims to create interactive reports and dashboards for sales and cust
 
 ## Process
 
-# 1.Data Connection and Cleaning
+### 1.Data Connection and Cleaning
 - Connect and consolidate data from multiple sources.
 - Remove duplicates and clean irrelevant data.
 - Create normalized columns for better analysis (e.g., date standardization).
-# 2.Data Modeling and Relationships
+### 2.Data Modeling and Relationships
 - Relate tables to enable detailed analysis by product, customer, and location.
 - Create time intelligence functions for data comparison over time.
-# 3.Report and Dashboard Creation
+### 3.Report and Dashboard Creation
 - Develop interactive dashboards with dynamic filters.
 - Implement bookmarks to switch between different analyses on the same page.
 - Create geographical visualizations and TOP N of products/customers.
-# 4.Interpretation and Insights
+### 4.Interpretation and Insights
 - Identify the most profitable products and strategic customers.
 - Analyze seasonality and purchasing patterns.
 - Provide recommendations for sales and marketing optimization.
