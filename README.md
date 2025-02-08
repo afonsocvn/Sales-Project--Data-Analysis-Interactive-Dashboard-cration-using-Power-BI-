@@ -13,7 +13,7 @@ The project aims to create interactive reports and dashboards for sales and cust
 - What are the growth or decline trends in sales?
 - How do costs impact product profitability?
 
-- Dashboard Interaction:
+## Dashboard Interaction:
 <a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%201.JPG">View Dashboard page 1</a>
 
 <a href="https://github.com/afonsocvn/Sales-Project--Data-Analysis-Interactive-Dashboard-cration-using-Power-BI-/blob/main/IMG%202.JPG">View Dashboard page 2</a>
